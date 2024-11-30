@@ -5,8 +5,6 @@ The current features that this trainer has to offer is:
 - Changing the coin value
 - Changing the coin per second value
 
-![{64FAD42C-80F1-4FA4-858D-34375D3F9666}](https://github.com/user-attachments/assets/a2de0efc-fd0d-4736-b21c-6ddd0aa343eb)
-
 ### ⚙️Installation:
 1. **Download the latest version of my Idle Slayer Trainer via the releases tab**
 2. **To use the trainer, use a program called: Process Hacker ~~or my custom built injector~~**
